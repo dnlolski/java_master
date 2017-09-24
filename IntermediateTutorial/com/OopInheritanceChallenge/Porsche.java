@@ -1,4 +1,4 @@
-package com.InheritanceChallenge;
+package com.OopInheritanceChallenge;
 
 
 public class Porsche extends Car{

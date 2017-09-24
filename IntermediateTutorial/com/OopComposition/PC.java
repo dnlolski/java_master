@@ -1,8 +1,6 @@
 package com.OopComposition;
 
-/**
- * Created by edaolsz on 2017-07-24.
- */
+
 public class PC {
 
     private Case theCase;
@@ -24,7 +22,7 @@ public class PC {
         monitor.drawPixelAt(1200, 50, "yellow");
     }
 
-    /*private Case getTheCase() {
+    private Case getTheCase() {
         return theCase;
     }
 
@@ -34,5 +32,5 @@ public class PC {
 
     private Motherboard getMotherboard() {
         return motherboard;
-    }*/
+    }
 }

@@ -1,4 +1,4 @@
-package com.OOP;
+package com.OopInheritance;
 
 
 public class VipCustomer {

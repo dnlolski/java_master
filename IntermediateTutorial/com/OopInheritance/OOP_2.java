@@ -1,4 +1,4 @@
-package com.OOP;
+package com.OopInheritance;
 
 /**
  * Created by edaolsz on 2017-07-04.
